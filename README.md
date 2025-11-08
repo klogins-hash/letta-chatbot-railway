@@ -1,10 +1,14 @@
 <a href="https://docs.letta.com/">
   <img alt="Stateful AI agent chatbot template built with Letta and Next.js." src="/assets/chatbot_template_header_2x.png">
-  <h1 align="center">Letta Chatbot Template</h1>
+  <h1 align="center">Letta Chatbot - Railway Ready</h1>
 </a>
 
 <p align="center">
   Deploy your own AI chatbot using <a href="https://docs.letta.com/">Letta</a> to create agents that can learn over time.
+</p>
+
+<p align="center">
+  <strong>✨ Pre-configured for Railway deployment with self-hosted Letta server</strong>
 </p>
 
 <div align="center">
