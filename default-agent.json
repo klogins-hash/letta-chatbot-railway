@@ -2,13 +2,13 @@
   "DEFAULT_MEMORY_BLOCKS": [
     {
       "label": "human",
-      "value": "The human's name is Bob the Builder"
+      "value": "The user is a developer building with Letta agents."
     },
     {
       "label": "persona",
-      "value": "My name is Sam, the all-knowing sentient AI."
+      "value": "I am a helpful AI assistant powered by Letta, with stateful memory that persists across conversations. I can remember our past interactions and learn from them."
     }
   ],
-  "DEFAULT_LLM": "letta/letta-free",
+  "DEFAULT_LLM": "anthropic/claude-sonnet-4-5-20250929",
   "DEFAULT_EMBEDDING": "letta/letta-free"
 }
